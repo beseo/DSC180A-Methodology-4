@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Beomsuk Seo
-beseo@ucsd.edu
+Beomsuk Seo and Vaibhav Bommisetty
